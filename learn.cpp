@@ -3,11 +3,8 @@
 #include <vector>
 #include <cmath>
 
-// Constants
-//{
 // The default data source.
 constexpr const char* DATA_FILE = "learn.dat";
-//}
 
 /**
  * A mathematical matrix that supports multiplication, transposition, and inversion.
